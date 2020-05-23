@@ -11,7 +11,7 @@ def vnice(x,A,D):
 
 os.chdir('..')
 
-Events = 4000
+Events = 2000
 L = 32
 Decorr_t = 10
 Therm_t = 8000
